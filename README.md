@@ -8,14 +8,14 @@ This is a calculator application designed to assist FiveM job mechanics in their
 
 - Calculate prices for job-related tasks.
 - Easy-to-use interface for managing price tags.
-- Skin customization options for East Customs and Black Theme.
+- Skin customization options for East Customs and Classic Theme.
 
 ## Version 1.2 (Beta)
 
 ### New Features
 - Improved button functionality.
 - Enhanced price tag editing capabilities.
-- Seamless skin switching between East Customs and Black Theme.
+- Seamless skin switching between East Customs and Classic Theme.
 
 ## Getting Started
 
